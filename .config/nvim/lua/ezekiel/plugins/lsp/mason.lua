@@ -33,7 +33,8 @@ mason_lspconfig.setup({
         "rust_analyzer",
         "sqlls",
         "lemminx",
-		"tsserver"
+		"tsserver",
+		"zls"
     }
 })
 

@@ -70,7 +70,8 @@ local servers = {
 	"quick_lint_js",
 	"rust_analyzer",
 	"sqlls",
-	"tsserver"
+	"tsserver",
+	"zls"
 }
 
 for _,lsp in ipairs(servers) do
